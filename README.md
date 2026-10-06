@@ -1,4 +1,4 @@
-# 🚀 Space Explorer Logbook - DevOps Task
+# 🚀 Space Explorer Logbook - DevOps Task1
 
 This project is a simple web application based on **Flask**. Its purpose is to serve as a test environment for configuring **CI/CD** pipelines and deploying to **Kubernetes**. The application uses **PostgreSQL** to store records (discovered planets) and **Redis** for a visit/action counter.
 
